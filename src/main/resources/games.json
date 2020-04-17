@@ -1,0 +1,2240 @@
+[
+  {
+    "tag": "7d2d",
+    "name": "7 Days to Die (2013)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 26900,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "ageofchivalry",
+    "name": "Age of Chivalry (2007)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "aoe2",
+    "name": "Age of Empires 2 (1999)",
+    "protocol": "ASE",
+    "ports": {
+      "queryPort": 27224
+    }
+  },
+  {
+    "tag": "alienarena",
+    "name": "Alien Arena (2004)",
+    "protocol": "QUAKE2",
+    "ports": {
+      "queryPort": 27910
+    }
+  },
+  {
+    "tag": "alienswarm",
+    "name": "Alien Swarm (2010)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "arkse",
+    "name": "Ark: Survival Evolved (2017)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 27015
+    }
+  },
+  {
+    "tag": "assettocorsa",
+    "name": "Assetto Corsa (2014)",
+    "protocol": "ASSETTOCORSA",
+    "ports": {
+      "gamePort": 9610
+    }
+  },
+  {
+    "tag": "atlas",
+    "name": "Atlas (2018)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 5761,
+      "queryPortOffset": 51800
+    }
+  },
+  {
+    "tag": "avp2",
+    "name": "Aliens versus Predator 2 (2001)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 27888
+    }
+  },
+  {
+    "tag": "avp2010",
+    "name": "Aliens vs. Predator (2010)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "americasarmy",
+    "name": "America's Army (2002)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 1716,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "americasarmy2",
+    "name": "America's Army 2 (2003)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 1716,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "americasarmy3",
+    "name": "America's Army 3 (2009)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 8777,
+      "queryPort": 27020
+    }
+  },
+  {
+    "tag": "americasarmypg",
+    "name": "America's Army: Proving Grounds (2015)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 8777,
+      "queryPort": 27020
+    }
+  },
+  {
+    "tag": "arcasimracing",
+    "name": "Arca Sim Racing (2008)",
+    "protocol": "RFACTOR",
+    "ports": {
+      "gamePort": 34397,
+      "queryPortOffset": -100
+    }
+  },
+  {
+    "tag": "arma",
+    "name": "ARMA: Armed Assault (2007)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 2302
+    }
+  },
+  {
+    "tag": "arma2",
+    "name": "ARMA 2 (2009)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "arma2oa",
+    "name": "ARMA 2: Operation Arrowhead (2010)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "armacwa",
+    "name": "ARMA: Cold War Assault (2011)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "armar",
+    "name": "ARMA: Resistance (2011)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "arma3",
+    "name": "ARMA 3 (2013)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "armagetron",
+    "name": "Armagetron Advanced (2001)",
+    "protocol": "ARMAGETRON",
+    "ports": {
+      "gamePort": 4534
+    }
+  },
+  {
+    "tag": "baldursgate",
+    "name": "Baldur's Gate (1998)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 6073,
+      "queryPort": 1470
+    }
+  },
+  {
+    "tag": "bat1944",
+    "name": "Battalion 1944 (2018)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 3
+    }
+  },
+  {
+    "tag": "bf1942",
+    "name": "Battlefield 1942 (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 14567,
+      "queryPort": 23000
+    }
+  },
+  {
+    "tag": "bfv",
+    "name": "Battlefield Vietnam (2004)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 15567,
+      "queryPort": 23000
+    }
+  },
+  {
+    "tag": "bf2",
+    "name": "Battlefield 2 (2005)",
+    "protocol": "GAMESPY3",
+    "ports": {
+      "gamePort": 16567,
+      "queryPort": 29900
+    }
+  },
+  {
+    "tag": "bf2142",
+    "name": "Battlefield 2142 (2006)",
+    "protocol": "GAMESPY3",
+    "ports": {
+      "gamePort": 16567,
+      "queryPort": 29900
+    }
+  },
+  {
+    "tag": "bfbc2",
+    "name": "Battlefield: Bad Company 2 (2010)",
+    "protocol": "BATTLEFIELD",
+    "ports": {
+      "gamePort": 19567,
+      "queryPort": 48888
+    }
+  },
+  {
+    "tag": "bf3",
+    "name": "Battlefield 3 (2011)",
+    "protocol": "BATTLEFIELD",
+    "ports": {
+      "gamePort": 25200,
+      "queryPortOffset": 22000
+    }
+  },
+  {
+    "tag": "bf4",
+    "name": "Battlefield 4 (2013)",
+    "protocol": "BATTLEFIELD",
+    "ports": {
+      "gamePort": 25200,
+      "queryPortOffset": 22000
+    }
+  },
+  {
+    "tag": "bfh",
+    "name": "Battlefield Hardline (2015)",
+    "protocol": "BATTLEFIELD",
+    "ports": {
+      "gamePort": 25200,
+      "queryPortOffset": 22000
+    }
+  },
+  {
+    "tag": "breach",
+    "name": "Breach (2011)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27016
+    }
+  },
+  {
+    "tag": "breed",
+    "name": "Breed (2004)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 7649
+    }
+  },
+  {
+    "tag": "brink",
+    "name": "Brink (2011)",
+    "protocol": "VALVE",
+    "ports": {
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "buildandshoot",
+    "name": "Build and Shoot / Ace of Spades Classic (2012)",
+    "protocol": "BUILDANDSHOOT",
+    "ports": {
+      "gamePort": 32887,
+      "queryPortOffset": -1
+    }
+  },
+  {
+    "tag": "cod",
+    "name": "Call of Duty (2003)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "gamePort": 28960
+    }
+  },
+  {
+    "tag": "coduo",
+    "name": "Call of Duty: United Offensive (2004)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "gamePort": 28960
+    }
+  },
+  {
+    "tag": "cod2",
+    "name": "Call of Duty 2 (2005)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "gamePort": 28960
+    }
+  },
+  {
+    "tag": "cod3",
+    "name": "Call of Duty 3 (2006)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "gamePort": 28960
+    }
+  },
+  {
+    "tag": "cod4",
+    "name": "Call of Duty 4: Modern Warfare (2007)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "gamePort": 28960
+    }
+  },
+  {
+    "tag": "codwaw",
+    "name": "Call of Duty: World at War (2008)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "gamePort": 28960
+    }
+  },
+  {
+    "tag": "codmw2",
+    "name": "Call of Duty: Modern Warfare 2 (2009)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "gamePort": 28960
+    }
+  },
+  {
+    "tag": "codmw3",
+    "name": "Call of Duty: Modern Warfare 3 (2011)",
+    "protocol": "VALVE",
+    "ports": {
+      "queryPortOffset": 2
+    }
+  },
+  {
+    "tag": "callofjuarez",
+    "name": "Call of Juarez (2006)",
+    "protocol": "ASE",
+    "ports": {
+      "queryPort": 26000
+    }
+  },
+  {
+    "tag": "chaser",
+    "name": "Chaser (2003)",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 3000,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "chrome",
+    "name": "Chrome (2003)",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 27015,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "codenameeagle",
+    "name": "Codename Eagle (2000)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 4711
+    }
+  },
+  {
+    "tag": "commandos3",
+    "name": "Commandos 3: Destination Berlin (2003)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 6500
+    }
+  },
+  {
+    "tag": "cacrenegade",
+    "name": "Command and Conquer: Renegade (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 4848,
+      "queryPort": 25300
+    }
+  },
+  {
+    "tag": "conanexiles",
+    "name": "Conan Exiles (2018)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 27015
+    }
+  },
+  {
+    "tag": "contagion",
+    "name": "Contagion (2011)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "contactjack",
+    "name": "Contract J.A.C.K. (2003)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 27888
+    }
+  },
+  {
+    "tag": "cs15",
+    "name": "Counter-Strike 1.5 (2002)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "cs16",
+    "name": "Counter-Strike 1.6 (2003)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "cs2d",
+    "name": "Counter-Strike: 2D (2004)",
+    "protocol": "CS2D",
+    "ports": {
+      "gamePort": 36963
+    }
+  },
+  {
+    "tag": "cscz",
+    "name": "Counter-Strike: Condition Zero (2004)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "css",
+    "name": "Counter-Strike: Source (2004)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "csgo",
+    "name": "Counter-Strike: Global Offensive (2012)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "crossracing",
+    "name": "Cross Racing Championship Extreme 2005 (2005)",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 12321,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "crysis",
+    "name": "Crysis (2007)",
+    "protocol": "GAMESPY3",
+    "ports": {
+      "gamePort": 64087
+    }
+  },
+  {
+    "tag": "crysiswars",
+    "name": "Crysis Wars (2008)",
+    "protocol": "GAMESPY3",
+    "ports": {
+      "gamePort": 64100
+    }
+  },
+  {
+    "tag": "crysis2",
+    "name": "Crysis 2 (2011)",
+    "protocol": "GAMESPY3",
+    "ports": {
+      "gamePort": 64000
+    }
+  },
+  {
+    "tag": "daikatana",
+    "name": "Daikatana (2000)",
+    "protocol": "QUAKE2",
+    "ports": {
+      "gamePort": 27982,
+      "queryPortOffset": 10
+    }
+  },
+  {
+    "tag": "dmomam",
+    "name": "Dark Messiah of Might and Magic (2006)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "darkesthour",
+    "name": "Darkest Hour: Europe '44-'45 (2008)",
+    "protocol": "UNREAL2",
+    "ports": {
+      "gamePort": 7757,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "daysofwar",
+    "name": "Days of War (2017)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "dayz",
+    "name": "DayZ (2018)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 24714
+    }
+  },
+  {
+    "tag": "dayzmod",
+    "name": "DayZ Mod (2013)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "deadlydozenpt",
+    "name": "Deadly Dozen: Pacific Theater (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 25300
+    }
+  },
+  {
+    "tag": "dh2005",
+    "name": "Deer Hunter 2005 (2004)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 23459,
+      "queryPort": 34567
+    }
+  },
+  {
+    "tag": "descent3",
+    "name": "Descent 3 (1999)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 2092,
+      "queryPort": 20142
+    }
+  },
+  {
+    "tag": "deusex",
+    "name": "Deus Ex (2000)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 7791,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "devastation",
+    "name": "Devastation (2003)",
+    "protocol": "UNREAL2",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "dinodday",
+    "name": "Dino D-Day (2011)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "dirttrackracing2",
+    "name": "Dirt Track Racing 2 (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 32240,
+      "queryPortOffset": -100
+    }
+  },
+  {
+    "tag": "dnl",
+    "name": "Dark and Light (2017)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 27015
+    }
+  },
+  {
+    "tag": "dod",
+    "name": "Day of Defeat (2003)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "dods",
+    "name": "Day of Defeat: Source (2005)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "doi",
+    "name": "Day of Infamy (2017)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "doom3",
+    "name": "Doom 3 (2004)",
+    "protocol": "DOOM3",
+    "ports": {
+      "gamePort": 27666
+    }
+  },
+  {
+    "tag": "dota2",
+    "name": "Dota 2 (2013)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "drakan",
+    "name": "Drakan: Order of the Flame (1999)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 27045,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "empyrion",
+    "name": "Empyrion - Galactic Survival (2015)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 30000,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "etqw",
+    "name": "Enemy Territory: Quake Wars (2007)",
+    "protocol": "DOOM3",
+    "ports": {
+      "gamePort": 3074,
+      "queryPort": 27733
+    }
+  },
+  {
+    "tag": "fear",
+    "name": "F.E.A.R. (2005)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "queryPort": 27888
+    }
+  },
+  {
+    "tag": "f12002",
+    "name": "Formula One 2002 (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 3297
+    }
+  },
+  {
+    "tag": "f1c9902",
+    "name": "F1 Challenge '99-'02 (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 34397
+    }
+  },
+  {
+    "tag": "farcry",
+    "name": "Far Cry (2004)",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 49001,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "farcry2",
+    "name": "Far Cry 2 (2008)",
+    "protocol": "ASE",
+    "ports": {
+      "queryPort": 14001
+    }
+  },
+  {
+    "tag": "fortressforever",
+    "name": "Fortress Forever (2007)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "operationflashpoint,flashpoint",
+    "name": "Operation Flashpoint: Cold War Crisis (2001)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "flashpointresistance",
+    "name": "Operation Flashpoint: Resistance (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "ffow",
+    "name": "Frontlines: Fuel of War (2008)",
+    "protocol": "FFOW",
+    "ports": {
+      "gamePort": 5476,
+      "queryPortOffset": 2
+    }
+  },
+  {
+    "tag": "fivem",
+    "name": "Grand Theft Auto V - FiveM (2013)",
+    "protocol": "FIVEM",
+    "ports": {
+      "gamePort": 30120
+    }
+  },
+  {
+    "tag": "forrest",
+    "name": "The Forrest (2014)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "garrysmod",
+    "name": "Garry's Mod (2004)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "graw",
+    "name": "Tom Clancy's Ghost Recon Advanced Warfighter (2006)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "queryPort": 15250
+    }
+  },
+  {
+    "tag": "graw2",
+    "name": "Tom Clancy's Ghost Recon Advanced Warfighter 2 (2007)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "queryPort": 16250
+    }
+  },
+  {
+    "tag": "giantscitizenkabuto",
+    "name": "Giants: Citizen Kabuto (2000)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 8911
+    }
+  },
+  {
+    "tag": "globaloperations",
+    "name": "Global Operations (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 28672
+    }
+  },
+  {
+    "tag": "geneshift,mutantfactions",
+    "name": "Geneshift (2017)",
+    "protocol": "GENESHIFT",
+    "ports": {
+      "gamePort": 11235
+    }
+  },
+  {
+    "tag": "ges",
+    "name": "GoldenEye: Source (2010)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "gore",
+    "name": "Gore: Ultimate Soldier (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 27777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "gunmanchronicles",
+    "name": "Gunman Chronicles (2000)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "hldm",
+    "name": "Half-Life Deathmatch (1998)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "hldms",
+    "name": "Half-Life Deathmatch: Source (2005)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "hl2dm",
+    "name": "Half-Life 2: Deathmatch (2004)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "halo",
+    "name": "Halo (2003)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 2302
+    }
+  },
+  {
+    "tag": "halo2",
+    "name": "Halo 2 (2007)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 2302
+    }
+  },
+  {
+    "tag": "heretic2",
+    "name": "Heretic II (1998)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 27900,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "hexen2",
+    "name": "Hexen II (1997)",
+    "protocol": "HEXEN2",
+    "ports": {
+      "gamePort": 26900,
+      "queryPortOffset": 50
+    }
+  },
+  {
+    "tag": "hidden",
+    "name": "The Hidden (2005)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "hll",
+    "name": "Hell Let Loose",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "had2",
+    "name": "Hidden & Dangerous 2 (2003)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 11001,
+      "queryPortOffset": 3
+    }
+  },
+  {
+    "tag": "homefront",
+    "name": "Homefront (2011)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "homeworld2",
+    "name": "Homeworld 2 (2003)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 6500
+    }
+  },
+  {
+    "tag": "hurtworld",
+    "name": "Hurtworld (2015)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 12871,
+      "queryPort": 12881
+    }
+  },
+  {
+    "tag": "igi2",
+    "name": "I.G.I.-2: Covert Strike (2003)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 26001
+    }
+  },
+  {
+    "tag": "il2",
+    "name": "IL-2 Sturmovik (2001)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 21000
+    }
+  },
+  {
+    "tag": "insurgency",
+    "name": "Insurgency (2014)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "insurgencysandstorm",
+    "name": "Insurgency: Sandstorm (2018)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "ironstorm",
+    "name": "Iron Storm (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 3505
+    }
+  },
+  {
+    "tag": "jamesbondnightfire",
+    "name": "James Bond 007: Nightfire (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 6550
+    }
+  },
+  {
+    "tag": "jc2mp",
+    "name": "Just Cause 2 - Multiplayer (2010)",
+    "protocol": "JC2MP",
+    "ports": {
+      "gamePort": 7777
+    }
+  },
+  {
+    "tag": "jc3mp",
+    "name": "Just Cause 3 - Multiplayer (2017)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 4200,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "killingfloor",
+    "name": "Killing Floor (2009)",
+    "protocol": "UNREAL2",
+    "ports": {
+      "gamePort": 7707,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "killingfloor2",
+    "name": "Killing Floor 2 (2016)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 27015
+    }
+  },
+  {
+    "tag": "kingpin",
+    "name": "Kingpin: Life of Crime (1999)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 31510,
+      "queryPortOffset": -10
+    }
+  },
+  {
+    "tag": "kisspc",
+    "name": "Kiss: Psycho Circus: The Nightmare Child (2000)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "kspdmp",
+    "name": "Kerbal Space Program - DMP Multiplayer (2015)",
+    "protocol": "KSPDMP",
+    "ports": {
+      "gamePort": 6702,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "kzmod",
+    "name": "Kreedz Climbing (2017)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "left4dead",
+    "name": "Left 4 Dead (2008)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "left4dead2",
+    "name": "Left 4 Dead 2 (2009)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "m2mp",
+    "name": "Mafia II - Multiplayer (2010)",
+    "protocol": "MAFIA2MP",
+    "ports": {
+      "gamePort": 27016,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "m2o",
+    "name": "Mafia II - Online (2010)",
+    "protocol": "MAFIA2ONLINE",
+    "ports": {
+      "gamePort": 27015,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "medievalengineers",
+    "name": "Medieval Engineers (2015)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "mohaa",
+    "name": "Medal of Honor: Allied Assault (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 12203,
+      "queryPortOffset": 97
+    }
+  },
+  {
+    "tag": "mohsh",
+    "name": "Medal of Honor: Allied Assault Spearhead (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 12203,
+      "queryPortOffset": 97
+    }
+  },
+  {
+    "tag": "mohbt",
+    "name": "Medal of Honor: Allied Assault Breakthrough (2003)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 12203,
+      "queryPortOffset": 97
+    }
+  },
+  {
+    "tag": "mohpa",
+    "name": "Medal of Honor: Pacific Assault (2004)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 13203,
+      "queryPortOffset": 97
+    }
+  },
+  {
+    "tag": "mohab",
+    "name": "Medal of Honor: Airborne (2007)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 12203,
+      "queryPortOffset": 97
+    }
+  },
+  {
+    "tag": "moh2010",
+    "name": "Medal of Honor (2010)",
+    "protocol": "BATTLEFIELD",
+    "ports": {
+      "gamePort": 7673,
+      "queryPort": 48888
+    }
+  },
+  {
+    "tag": "mohwf",
+    "name": "Medal of Honor: Warfighter (2012)",
+    "protocol": "BATTLEFIELD",
+    "ports": {
+      "gamePort": 25200,
+      "queryPortOffset": 22000
+    }
+  },
+  {
+    "tag": "minecraft,minecraftping",
+    "name": "Minecraft (2009)",
+    "protocol": "MINECRAFT",
+    "ports": {
+      "gamePort": 25565
+    }
+  },
+  {
+    "tag": "minecraftpe,minecraftbe",
+    "name": "Minecraft: Bedrock Edition (2011)",
+    "protocol": "MINECRAFT",
+    "ports": {
+      "gamePort": 19132
+    }
+  },
+  {
+    "tag": "mnc",
+    "name": "Monday Night Combat (2011)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 27016
+    }
+  },
+  {
+    "tag": "mordhau",
+    "name": "Mordhau (2019)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 27015
+    }
+  },
+  {
+    "tag": "mtavc",
+    "name": "Grand Theft Auto: Vice City - Multi Theft Auto (2002)",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 22003,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "mtasa",
+    "name": "Grand Theft Auto: San Andreas - Multi Theft Auto (2004)",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 22003,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "mumble",
+    "name": "Mumble - GTmurmur Plugin (2005)",
+    "protocol": "MUMBLE",
+    "ports": {
+      "gamePort": 64738,
+      "queryPort": 27800
+    }
+  },
+  {
+    "tag": "mumbleping",
+    "name": "Mumble - Lightweight (2005)",
+    "protocol": "MUMBLEPING",
+    "ports": {
+      "gamePort": 64738
+    }
+  },
+  {
+    "tag": "nascarthunder2004",
+    "name": "NASCAR Thunder 2004 (2003)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "queryPort": 13333
+    }
+  },
+  {
+    "tag": "netpanzer",
+    "name": "netPanzer (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 3030
+    }
+  },
+  {
+    "tag": "nmrih",
+    "name": "No More Room in Hell (2011)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "ns",
+    "name": "Natural Selection (2002)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "ns2",
+    "name": "Natural Selection 2 (2012)",
+    "protocol": "VALVE",
+    "ports": {
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "nfshp2",
+    "name": "Need for Speed: Hot Pursuit 2 (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 61220
+    }
+  },
+  {
+    "tag": "nab",
+    "name": "Nerf Arena Blast (1999)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 4444,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "nwn",
+    "name": "Neverwinter Nights (2002)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "queryPort": 5121
+    }
+  },
+  {
+    "tag": "nwn2",
+    "name": "Neverwinter Nights 2 (2006)",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 5121,
+      "queryPort": 6500
+    }
+  },
+  {
+    "tag": "nexuiz",
+    "name": "Nexuiz (2005)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 26000
+    }
+  },
+  {
+    "tag": "nitrofamily",
+    "name": "Nitro Family (2004)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 25601
+    }
+  },
+  {
+    "tag": "nolf",
+    "name": "The Operative: No One Lives Forever (2000)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 27888
+    }
+  },
+  {
+    "tag": "nolf2",
+    "name": "No One Lives Forever 2: A Spy in H.A.R.M.'s Way (2002)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 27890
+    }
+  },
+  {
+    "tag": "nucleardawn",
+    "name": "Nuclear Dawn (2011)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "openarena",
+    "name": "OpenArena (2005)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 27960
+    }
+  },
+  {
+    "tag": "openttd",
+    "name": "OpenTTD (2004)",
+    "protocol": "OPENTTD",
+    "ports": {
+      "gamePort": 3979
+    }
+  },
+  {
+    "tag": "painkiller",
+    "name": "Painkiller",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 3455,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "pixark",
+    "name": "PixARK (2018)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 27015
+    }
+  },
+  {
+    "tag": "postal2",
+    "name": "Postal 2",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "prey",
+    "name": "Prey",
+    "protocol": "DOOM3",
+    "ports": {
+      "gamePort": 27719
+    }
+  },
+  {
+    "tag": "primalcarnage",
+    "name": "Primal Carnage: Extinction",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 27015
+    }
+  },
+  {
+    "tag": "prbf2",
+    "name": "Project Reality: Battlefield 2 (2005)",
+    "protocol": "GAMESPY3",
+    "ports": {
+      "gamePort": 16567,
+      "queryPort": 29900
+    }
+  },
+  {
+    "tag": "quake1",
+    "name": "Quake 1: QuakeWorld (1996)",
+    "protocol": "QUAKE1",
+    "ports": {
+      "gamePort": 27500
+    }
+  },
+  {
+    "tag": "quake2",
+    "name": "Quake 2 (1997)",
+    "protocol": "QUAKE2",
+    "ports": {
+      "gamePort": 27910
+    }
+  },
+  {
+    "tag": "quake3",
+    "name": "Quake 3: Arena (1999)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "gamePort": 27960
+    }
+  },
+  {
+    "tag": "quake4",
+    "name": "Quake 4 (2005)",
+    "protocol": "DOOM3",
+    "ports": {
+      "gamePort": 28004
+    }
+  },
+  {
+    "tag": "quakelive",
+    "name": "Quake Live (2010)",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27960
+    }
+  },
+  {
+    "tag": "ragdollkungfu",
+    "name": "Rag Doll Kung Fu",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "r6",
+    "name": "Rainbow Six",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 2348
+    }
+  },
+  {
+    "tag": "r6roguespear",
+    "name": "Rainbow Six 2: Rogue Spear",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 2346
+    }
+  },
+  {
+    "tag": "r6ravenshield",
+    "name": "Rainbow Six 3: Raven Shield",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1000
+    }
+  },
+  {
+    "tag": "rallisportchallenge",
+    "name": "RalliSport Challenge",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 17500
+    }
+  },
+  {
+    "tag": "rallymasters",
+    "name": "Rally Masters",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 16666
+    }
+  },
+  {
+    "tag": "redorchestra",
+    "name": "Red Orchestra",
+    "protocol": "UNREAL2",
+    "ports": {
+      "gamePort": 7758,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "redorchestraost",
+    "name": "Red Orchestra: Ostfront 41-45",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 7757,
+      "queryPortOffset": 10
+    }
+  },
+  {
+    "tag": "redorchestra2",
+    "name": "Red Orchestra 2",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 27015
+    }
+  },
+  {
+    "tag": "redline",
+    "name": "Redline",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 25252
+    }
+  },
+  {
+    "tag": "rtcw",
+    "name": "Return to Castle Wolfenstein",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 27960
+    }
+  },
+  {
+    "tag": "rfactor",
+    "name": "rFactor",
+    "protocol": "RFACTOR",
+    "ports": {
+      "gamePort": 34397,
+      "queryPortOffset": -100
+    }
+  },
+  {
+    "tag": "ricochet",
+    "name": "Ricochet",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "riseofnations",
+    "name": "Rise of Nations",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 6501
+    }
+  },
+  {
+    "tag": "rs2",
+    "name": "Rising Storm 2: Vietnam",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "rune",
+    "name": "Rune",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "rust",
+    "name": "Rust",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 28015
+    }
+  },
+  {
+    "tag": "samp",
+    "name": "San Andreas Multiplayer",
+    "protocol": "SAMP",
+    "ports": {
+      "gamePort": 7777
+    }
+  },
+  {
+    "tag": "spaceengineers",
+    "name": "Space Engineers",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "ss",
+    "name": "Serious Sam",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 25600,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "ss2",
+    "name": "Serious Sam 2",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 25600
+    }
+  },
+  {
+    "tag": "shatteredhorizon",
+    "name": "Shattered Horizon",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "ship",
+    "name": "The Ship",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "shogo",
+    "name": "Shogo",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 27888
+    }
+  },
+  {
+    "tag": "shootmania",
+    "name": "Shootmania",
+    "protocol": "NADEO",
+    "ports": {
+      "gamePort": 2350,
+      "queryPort": 5000
+    }
+  },
+  {
+    "tag": "sin",
+    "name": "SiN",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 22450
+    }
+  },
+  {
+    "tag": "sinep",
+    "name": "SiN Episodes",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "soldat",
+    "name": "Soldat",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 13073,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "sof",
+    "name": "Soldier of Fortune",
+    "protocol": "QUAKE1",
+    "ports": {
+      "queryPort": 28910
+    }
+  },
+  {
+    "tag": "sof2",
+    "name": "Soldier of Fortune 2",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 20100
+    }
+  },
+  {
+    "tag": "stalker",
+    "name": "S.T.A.L.K.E.R.",
+    "protocol": "GAMESPY3",
+    "ports": {
+      "gamePort": 5445,
+      "queryPortOffset": 2
+    }
+  },
+  {
+    "tag": "stbc",
+    "name": "Star Trek: Bridge Commander",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 22101
+    }
+  },
+  {
+    "tag": "stvef",
+    "name": "Star Trek: Voyager - Elite Force",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 27960
+    }
+  },
+  {
+    "tag": "stvef2",
+    "name": "Star Trek: Voyager - Elite Force 2",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 29253
+    }
+  },
+  {
+    "tag": "squad",
+    "name": "Squad",
+    "protocol": "SQUAD",
+    "ports": {
+      "gamePort": 7787,
+      "queryPort": 27165
+    }
+  },
+  {
+    "tag": "swbf",
+    "name": "Star Wars: Battlefront",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "queryPort": 3658
+    }
+  },
+  {
+    "tag": "swbf2",
+    "name": "Star Wars: Battlefront 2",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "queryPort": 3658
+    }
+  },
+  {
+    "tag": "swjk",
+    "name": "Star Wars Jedi Knight: Jedi Academy (2003)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 29070
+    }
+  },
+  {
+    "tag": "swjk2",
+    "name": "Star Wars Jedi Knight II: Jedi Outcast (2002)",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 28070
+    }
+  },
+  {
+    "tag": "swrc",
+    "name": "Star Wars: Republic Commando",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 7777,
+      "queryPort": 11138
+    }
+  },
+  {
+    "tag": "starbound",
+    "name": "Starbound",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 21025
+    }
+  },
+  {
+    "tag": "starmade",
+    "name": "StarMade",
+    "protocol": "STARMADE",
+    "ports": {
+      "gamePort": 4242
+    }
+  },
+  {
+    "tag": "starsiege",
+    "name": "Starsiege (2009)",
+    "protocol": "STARSIEGE",
+    "ports": {
+      "gamePort": 29001
+    }
+  },
+  {
+    "tag": "suicidesurvival",
+    "name": "Suicide Survival",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "swat4",
+    "name": "SWAT 4",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 10480,
+      "queryPortOffset": 2
+    }
+  },
+  {
+    "tag": "svencoop",
+    "name": "Sven Coop",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "synergy",
+    "name": "Synergy",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "tacticalops",
+    "name": "Tactical Ops",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "takeonhelicopters",
+    "name": "Take On Helicopters (2011)",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 2302,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "teamfactor",
+    "name": "Team Factor",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 57778
+    }
+  },
+  {
+    "tag": "tfc",
+    "name": "Team Fortress Classic",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "tf2",
+    "name": "Team Fortress 2",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "teamspeak2",
+    "name": "Teamspeak 2",
+    "protocol": "TEAMSPEAK2",
+    "ports": {
+      "gamePort": 8767
+    }
+  },
+  {
+    "tag": "teamspeak3",
+    "name": "Teamspeak 3",
+    "protocol": "TEAMSPEAK3",
+    "ports": {
+      "gamePort": 9987
+    }
+  },
+  {
+    "tag": "terminus",
+    "name": "Terminus",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 12286
+    }
+  },
+  {
+    "tag": "terraria,tshock",
+    "name": "Terraria - TShock (2011)",
+    "protocol": "TERRARIA",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 101
+    }
+  },
+  {
+    "tag": "thps3",
+    "name": "Tony Hawk's Pro Skater 3",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 6500
+    }
+  },
+  {
+    "tag": "thps4",
+    "name": "Tony Hawk's Pro Skater 4",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 6500
+    }
+  },
+  {
+    "tag": "thu2",
+    "name": "Tony Hawk's Underground 2",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 5153
+    }
+  },
+  {
+    "tag": "towerunite",
+    "name": "Tower Unite",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "trackmania2",
+    "name": "Trackmania 2",
+    "protocol": "NADEO",
+    "ports": {
+      "gamePort": 2350,
+      "queryPort": 5000
+    }
+  },
+  {
+    "tag": "trackmaniaforever",
+    "name": "Trackmania Forever",
+    "protocol": "NADEO",
+    "ports": {
+      "gamePort": 2350,
+      "queryPort": 5000
+    }
+  },
+  {
+    "tag": "tremulous",
+    "name": "Tremulous",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 30720
+    }
+  },
+  {
+    "tag": "tribes1",
+    "name": "Tribes 1: Starsiege",
+    "protocol": "TRIBES1",
+    "ports": {
+      "gamePort": 28001
+    }
+  },
+  {
+    "tag": "tribesvengeance",
+    "name": "Tribes: Vengeance",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "tron20",
+    "name": "Tron 2.0",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "queryPort": 27888
+    }
+  },
+  {
+    "tag": "turok2",
+    "name": "Turok 2",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 12880
+    }
+  },
+  {
+    "tag": "universalcombat",
+    "name": "Universal Combat",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 1135,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "unreal",
+    "name": "Unreal",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "unturned",
+    "name": "unturned",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "ut",
+    "name": "Unreal Tournament",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "ut2003",
+    "name": "Unreal Tournament 2003",
+    "protocol": "UNREAL2",
+    "ports": {
+      "gamePort": 7757,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "ut2004",
+    "name": "Unreal Tournament 2004",
+    "protocol": "UNREAL2",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "ut3",
+    "name": "Unreal Tournament 3",
+    "protocol": "UT3",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": -1277
+    }
+  },
+  {
+    "tag": "urbanterror",
+    "name": "Urban Terror",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 27960
+    }
+  },
+  {
+    "tag": "v8supercar",
+    "name": "V8 Supercar Challenge",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "queryPort": 16700
+    }
+  },
+  {
+    "tag": "vcmp",
+    "name": "Vice City Multiplayer",
+    "protocol": "VCMP",
+    "ports": {
+      "gamePort": 8192
+    }
+  },
+  {
+    "tag": "ventrilo",
+    "name": "Ventrilo",
+    "protocol": "VENTRILO",
+    "ports": {
+      "gamePort": 3784
+    }
+  },
+  {
+    "tag": "vietcong",
+    "name": "Vietcong",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 5425,
+      "queryPort": 15425
+    }
+  },
+  {
+    "tag": "vietcong2",
+    "name": "Vietcong 2",
+    "protocol": "GAMESPY2",
+    "ports": {
+      "gamePort": 5001,
+      "queryPort": 19967
+    }
+  },
+  {
+    "tag": "warsow",
+    "name": "Warsow",
+    "protocol": "WARSOW",
+    "ports": {
+      "gamePort": 44400
+    }
+  },
+  {
+    "tag": "wheeloftime",
+    "name": "Wheel of Time",
+    "protocol": "GAMESPY1",
+    "ports": {
+      "gamePort": 7777,
+      "queryPortOffset": 1
+    }
+  },
+  {
+    "tag": "wolfenstein2009",
+    "name": "Wolfenstein 2009",
+    "protocol": "DOOM3",
+    "ports": {
+      "gamePort": 27666
+    }
+  },
+  {
+    "tag": "wolfensteinet",
+    "name": "Wolfenstein: Enemy Territory",
+    "protocol": "QUAKE3",
+    "ports": {
+      "queryPort": 27960
+    }
+  },
+  {
+    "tag": "xpandrally",
+    "name": "Xpand Rally",
+    "protocol": "ASE",
+    "ports": {
+      "gamePort": 28015,
+      "queryPortOffset": 123
+    }
+  },
+  {
+    "tag": "zombiemaster",
+    "name": "Zombie Master",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  },
+  {
+    "tag": "zps",
+    "name": "Zombie Panic: Source",
+    "protocol": "VALVE",
+    "ports": {
+      "gamePort": 27015
+    }
+  }
+]

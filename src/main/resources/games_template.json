@@ -1,0 +1,12 @@
+[
+  {
+    "tag": "7d2d",
+    "name": "7 Days to Die (2013)",
+    "protocol": "valve",
+    "ports": {
+      "gamePort": 26900,
+      "queryPort": 1337,
+      "queryPortOffset": 1
+    }
+  }
+]
